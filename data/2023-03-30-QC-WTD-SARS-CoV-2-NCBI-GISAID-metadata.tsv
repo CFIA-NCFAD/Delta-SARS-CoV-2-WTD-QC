@@ -1,0 +1,704 @@
+sample	host	date	country	province_state	region	location	host_country	other_sample_id
+QC-4055	White-tailed deer	2021-11-06	Canada	Quebec		CAN-QC	White-tailed deer|Canada	
+QC-4204	White-tailed deer	2021-11-06	Canada	Quebec		CAN-QC	White-tailed deer|Canada	
+QC-4205	White-tailed deer	2021-11-06	Canada	Quebec		CAN-QC	White-tailed deer|Canada	
+QC-4249	White-tailed deer	2021-11-06	Canada	Quebec		CAN-QC	White-tailed deer|Canada	
+MN908947.3	Human	2022-01-09	China	Wuhan	Wuhan	CHN-HB	Human|China	
+Canada/BC-BCCDC-195041/2021	Human	2021-08-30	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/AB-ABPHL-32268/2021	Human	2021-08-29	Canada	Alberta		CAN-AB	Human|Canada	
+USA/MT-FYR-545/2021	Human	2021-10-04	USA	Montana		USA-MT	Human|USA	
+USA/MT-MTPHL-3869051/2021	Human	2021-08-31	USA	Montana	Missoula County	USA-MT	Human|USA	
+Canada/AB-ABPHL-29354/2021	Human	2021-08-19	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/BC-BCCDC-215461/2021	Human	2021-09-30	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-213768/2021	Human	2021-09-23	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-212119/2021	Human	2021-09-26	Canada	British Columbia		CAN-BC	Human|Canada	
+USA/IL-CDC-ASC210422758/2021	Human	2021-11-15	USA	Illinois		USA-IL	Human|USA	
+USA/AK-PHL14388/2021	Human	2021-10-12	USA	Alaska	Interior	USA-AK	Human|USA	
+Canada/ON-PHL-21-40195/2021	Human	2021-11	Canada	Ontario		CAN-ON	Human|Canada	
+Canada/AB-ABPHL-42604/2021	Human	2021-11-15	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/BC-BCCDC-253573/2021	Human	2021-11-07	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-256646/2021	Human	2021-11-07	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/AB-ABPHL-43423/2021	Human	2021-11-23	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/NB-CHUGLD-1211-MM00685R/2021	Human	2021-11-12	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1211-MM00702R/2021	Human	2021-11-12	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1311-MM00615R/2021	Human	2021-11-13	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1411-MM00559R/2021	Human	2021-11-14	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1611-MM00216R/2021	Human	2021-11-16	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1611-MM00554R/2021	Human	2021-11-16	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1611-MM00590R/2021	Human	2021-11-16	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1911-MM00900R/2021	Human	2021-11-19	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1311-MM00585R/2021	Human	2021-11-13	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/AB-ABPHL-43276/2021	Human	2021-11-24	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/NB-CHUDGLD-2911-MM01710R/2021	Human	2021-11-29	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-2811-MM00601R/2021	Human	2021-11-28	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-2911-MM01712R/2021	Human	2021-11-29	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-2911-MM01711R/2021	Human	2021-11-29	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-2811-MM00566R/2021	Human	2021-11-28	Canada	New Brunswick		CAN-NB	Human|Canada	
+USA/MT-FYR-464/2021	Human	2021-09-14	USA	Montana		USA-MT	Human|USA	
+Canada/SK-NML-227908/2021	Human	2021-10-27	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/NL-PHML-223178/2021	Human	2021-10-14	Canada	Newfoundland and Labrador		CAN-NL	Human|Canada	
+USA/MT-UMGC-03531/2021	Human	2021-09-09	USA	Montana		USA-MT	Human|USA	
+Canada/NB-CHUDGLD-291222-MM02952R/2021	Human	2021-12-29	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/SK-NML-202440/2021	Human	2021-09-18	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/AB-ABPHL-32801/2021	Human	2021-09-07	Canada	Alberta		CAN-AB	Human|Canada	
+USA/MT-Walk-3869913/2021	Human	2021-09-01	USA	Montana	Helena	USA-MT	Human|USA	
+Canada/BC-BCCDC-279486/2021	Human	2021-12-13	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/AB-ABPHL-41307/2021	Human	2021-10-29	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-41642/2021	Human	2021-11-05	Canada	Alberta		CAN-AB	Human|Canada	
+USA/MT-WL-3887246/2021	Human	2021-09-20	USA	Montana	Gallatin County	USA-MT	Human|USA	
+Canada/AB-ABPHL-41648/2021	Human	2021-11-13	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-41314/2021	Human	2021-10-30	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-41425/2021	Human	2021-11-11	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-41187/2021	Human	2021-11-04	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-45691/2021	Human	2021-12-13	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/NS-NML-268437/2021	Human	2021-12-07	Canada	Nova Scotia		CAN-NS	Human|Canada	
+Canada/NB-CHUDGLD-040122-MM01328R/2022	Human	2022-01-04	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/AB-ABPHL-41323/2021	Human	2021-10-30	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/ON-PHL-21-33187/2021	Human	2021-09-02	Canada	Ontario		CAN-ON	Human|Canada	
+Canada/AB-ABPHL-40958/2021	Human	2021-11-04	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-41324/2021	Human	2021-10-31	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-35626/2021	Human	2021-09-16	Canada	Alberta		CAN-AB	Human|Canada	
+USA/MT-MTPHL-3873916/2021	Human	2021-09-07	USA	Montana	Lewis And Clark County	USA-MT	Human|USA	
+Canada/NB-CHUDGLD-2012-MM01436R/2021	Human	2021-12-20	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/AB-ABPHL-46995/2021	Human	2021-12-18	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/ON-PHL-21-42988/2021	Human	2021-11-29	Canada	Ontario		CAN-ON	Human|Canada	
+Canada/BC-BCCDC-213668/2021	Human	2021-09-23	Canada	British Columbia		CAN-BC	Human|Canada	
+USA/ND-NDDH-15690/2022	Human	2022-01-02	USA	North Dakota		USA-ND	Human|USA	
+Canada/NB-CHUDGLD-2012-MM01502R/2021	Human	2021-12-20	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/SK-NML-238672/2021	Human	2021-11-05	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/AB-ABPHL-41558/2021	Human	2021-10-31	Canada	Alberta		CAN-AB	Human|Canada	
+USA/MT-UMGC-02942/2021	Human	2021-08-24	USA	Montana	Teton	USA-MT	Human|USA	
+Canada/AB-ABPHL-41341/2021	Human	2021-10-31	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-40867/2021	Human	2021-11-03	Canada	Alberta		CAN-AB	Human|Canada	
+USA/UT-UPHL-220321766188/2022	Human	2022-01-22	USA	Utah		USA-UT	Human|USA	
+Canada/AB-ABPHL-40839/2021	Human	2021-11-02	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/NB-CHUDGLD-1112-MM00851R/2021	Human	2021-12-11	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/AB-ABPHL-41230/2021	Human	2021-11-04	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/NB-CHUDGLD-1112-MM00926R/2021	Human	2021-12-11	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/BC-BCCDC-255562/2021	Human	2021-11-05	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-253464/2021	Human	2021-10-31	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/NB-CHUGLD-0111-MM00448R/2021	Human	2021-11-01	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1211-MM00686R/2021	Human	2021-11-12	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1211-MM00696R/2021	Human	2021-11-12	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-1112-MM01024R/2021	Human	2021-12-11	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/AB-ABPHL-29925/2021	Human	2021-08-25	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/SK-RRPL-202041/2021	Human	2021-09-13	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/AB-ABPHL-38208/2021	Human	2021-10-09	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-39126/2021	Human	2021-10-21	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-40888/2021	Human	2021-11-03	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-41761/2021	Human	2021-11-11	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/NB-CHUGLD-1311-MM00480R/2021	Human	2021-11-13	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-1712-MM01564R/2021	Human	2021-12-17	Canada	New Brunswick		CAN-NB	Human|Canada	
+USA/MT-MTPHL-3881638/2021	Human	2021-09-14	USA	Montana		USA-MT	Human|USA	
+USA/MT-MTPHL-3881626/2021	Human	2021-09-14	USA	Montana		USA-MT	Human|USA	
+USA/MT-MTPHL-3881622/2021	Human	2021-09-14	USA	Montana	Lewis And Clark County	USA-MT	Human|USA	
+Canada/NB-CHUDGLD-2012-MM01450R/2021	Human	2021-12-20	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/BC-BCCDC-187042/2021	Human	2021-08-30	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/NB-CHUDGLD-0612-MM01144R/2021	Human	2021-12-06	Canada	New Brunswick		CAN-NB	Human|Canada	
+USA/MT-FYR-883/2021	Human	2021-10-11	USA	Montana		USA-MT	Human|USA	
+Canada/AB-ABPHL-40911/2021	Human	2021-11-03	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/NB-CHUDGLD-0412-MM00558R/2021	Human	2021-12-04	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-0212-MM01728R/2021	Human	2021-12-02	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-0512-MM00663R/2021	Human	2021-12-05	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-0512-MM00710R/2021	Human	2021-12-05	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-0412-MM00555R/2021	Human	2021-12-04	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-0412-MM00560R/2021	Human	2021-12-04	Canada	New Brunswick		CAN-NB	Human|Canada	
+USA/WA-PHL-002958/2021	Human	2021-08-26	USA	Washington	Walla Walla County	USA-WA	Human|USA	
+Canada/AB-ABPHL-43968/2021	Human	2021-11-14	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/NB-CHUDGLD-223268/2021	Human	2021-10-18	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-223269/2021	Human	2021-10-18	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/BC-BCCDC-214889/2021	Human	2021-09-27	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-226036/2021	Human	2021-10-14	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/AB-ABPHL-29927/2021	Human	2021-08-25	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-31182/2021	Human	2021-08-29	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-31465/2021	Human	2021-08-22	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-31734/2021	Human	2021-08-30	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-31743/2021	Human	2021-08-31	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-31760/2021	Human	2021-09-02	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-32187/2021	Human	2021-09-01	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-32188/2021	Human	2021-09-01	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-32270/2021	Human	2021-08-29	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-32280/2021	Human	2021-08-29	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-32697/2021	Human	2021-09-06	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-32715/2021	Human	2021-09-07	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-32841/2021	Human	2021-09-08	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-32794/2021	Human	2021-09-08	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/ON-PHL-21-33891/2021	Human	2021-09	Canada	Ontario		CAN-ON	Human|Canada	
+USA/MT-MTPHL-3927637/2021	Human	2021-11-08	USA	Montana	Lewis And Clark County	USA-MT	Human|USA	
+USA/MT-MTPHL-3927633/2021	Human	2021-10-23	USA	Montana	Lewis And Clark County	USA-MT	Human|USA	
+Canada/SK-NML-157343/2021	Human	2021-08-25	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/SK-RRPL-179883/2021	Human	2021-08-30	Canada	Saskatchewan		CAN-SK	Human|Canada	
+USA/MT-WL-3885322/2021	Human	2021-09-17	USA	Montana	Lewis And Clark County	USA-MT	Human|USA	
+USA/MT-UMGC-00775/2021	Human	2021-09-08	USA	Montana		USA-MT	Human|USA	
+USA/MT-UMGC-00761/2021	Human	2021-09-08	USA	Montana		USA-MT	Human|USA	
+USA/MT-UMGC-00805/2021	Human	2021-09-07	USA	Montana		USA-MT	Human|USA	
+USA/MT-WL-3883332/2021	Human	2021-09-15	USA	Montana		USA-MT	Human|USA	
+USA/MT-WL-3883323/2021	Human	2021-09-15	USA	Montana		USA-MT	Human|USA	
+USA/MT-WL-3883337/2021	Human	2021-09-15	USA	Montana	Granite County	USA-MT	Human|USA	
+Canada/ON-KHS-21-04282-v1/2021	Human	2021-10-23	Canada	Ontario		CAN-ON	Human|Canada	
+Canada/BC-BCCDC-189652/2021	Human	2021-09-01	Canada	British Columbia		CAN-BC	Human|Canada	
+USA/MT-MTPHL-3899605/2021	Human	2021-09-28	USA	Montana	Lincoln County	USA-MT	Human|USA	
+Canada/AB-ABPHL-40804/2021	Human	2021-11-02	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-41584/2021	Human	2021-11-05	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/SK-NML-205641/2021	Human	2021-09-23	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/SK-RRPL-194245/2021	Human	2021-09-09	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/NB-CHUDGLD-223211/2021	Human	2021-10-17	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NL-PHML-236837/2021	Human	2021-10-18	Canada	Newfoundland and Labrador		CAN-NL	Human|Canada	
+Canada/AB-ABPHL-42084/2021	Human	2021-11-07	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/SK-NML-227684/2021	Human	2021-10-23	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/SK-NML-222993/2021	Human	2021-10-21	Canada	Saskatchewan		CAN-SK	Human|Canada	
+USA/MT-FYR-396/2021	Human	2021-09-10	USA	Montana		USA-MT	Human|USA	
+USA/MT-FYR-417/2021	Human	2021-09-10	USA	Montana		USA-MT	Human|USA	
+Canada/NB-CHUDGLD-219457/2021	Human	2021-10-15	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-237120/2021	Human	2021-10-30	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/AB-ABPHL-36449/2021	Human	2021-09-27	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37040/2021	Human	2021-09-29	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37291/2021	Human	2021-10-11	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37312/2021	Human	2021-10-12	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37325/2021	Human	2021-10-12	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37358/2021	Human	2021-10-14	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37546/2021	Human	2021-10-13	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37591/2021	Human	2021-10-15	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37733/2021	Human	2021-10-10	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37859/2021	Human	2021-10-08	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37894/2021	Human	2021-10-09	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37906/2021	Human	2021-10-09	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37916/2021	Human	2021-10-10	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37924/2021	Human	2021-10-10	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37940/2021	Human	2021-10-18	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-37953/2021	Human	2021-10-17	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-38005/2021	Human	2021-10-18	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-38084/2021	Human	2021-10-17	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-38104/2021	Human	2021-10-18	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-38382/2021	Human	2021-10-17	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-38722/2021	Human	2021-10-18	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-38788/2021	Human	2021-10-19	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-38828/2021	Human	2021-10-25	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-38900/2021	Human	2021-10-25	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-39177/2021	Human	2021-10-26	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-39178/2021	Human	2021-10-26	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-39240/2021	Human	2021-10-26	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-39242/2021	Human	2021-10-26	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-39651/2021	Human	2021-10-30	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-39802/2021	Human	2021-11-02	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-39851/2021	Human	2021-10-31	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-40577/2021	Human	2021-11-03	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-36651/2021	Human	2021-09-30	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-36660/2021	Human	2021-10-01	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-39623/2021	Human	2021-10-30	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/SK-RRPL-205789/2021	Human	2021-09-19	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/SK-RRPL-194125/2021	Human	2021-09-01	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/SK-NML-180679/2021	Human	2021-09-01	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/SK-NML-194608/2021	Human	2021-09-18	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/SK-NML-191311/2021	Human	2021-09-04	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/SK-RRPL-202101/2021	Human	2021-09-07	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/BC-BCCDC-222072/2021	Human	2021-09-23	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-224570/2021	Human	2021-09-27	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-235820/2021	Human	2021-10-19	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-226068/2021	Human	2021-10-14	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-225291/2021	Human	2021-10-10	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-226854/2021	Human	2021-09-29	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-221628/2021	Human	2021-10-06	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-237524/2021	Human	2021-10-18	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/BC-BCCDC-245444/2021	Human	2021-11-05	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/SK-NML-228037/2021	Human	2021-10-31	Canada	Saskatchewan		CAN-SK	Human|Canada	
+Canada/AB-ABPHL-35739/2021	Human	2021-09-23	Canada	Alberta		CAN-AB	Human|Canada	
+USA/MT-MTPHL-3935435/2021	Human	2021-11-17	USA	Montana	Lewis And Clark County	USA-MT	Human|USA	
+USA/ID-BVAMC-748255/2021	Human	2021-08-11	USA	Idaho	Ada	USA-ID	Human|USA	
+USA/MT-MTPHL-3895336/2021	Human	2021-09-27	USA	Montana	Missoula County	USA-MT	Human|USA	
+Canada/NB-CHUGLD-1511-MM01427R/2021	Human	2021-11-15	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUGLD-1511-MM01440R/2021	Human	2021-11-15	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-0612-MM01738R/2021	Human	2021-12-06	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-0212-MM01200R/2021	Human	2021-12-02	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-1112-MM00749R/2021	Human	2021-12-11	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/BC-BCCDC-224541/2021	Human	2021-09-27	Canada	British Columbia		CAN-BC	Human|Canada	
+Canada/AB-ABPHL-37323/2021	Human	2021-10-12	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/AB-ABPHL-38368/2021	Human	2021-10-12	Canada	Alberta		CAN-AB	Human|Canada	
+Canada/NB-CHUDGLD-2012-MM01638R/2021	Human	2021-12-20	Canada	New Brunswick		CAN-NB	Human|Canada	
+Canada/NB-CHUDGLD-1212-MM00790R/2021	Human	2021-12-12	Canada	New Brunswick		CAN-NB	Human|Canada	
+OK379994.1	Human	2021-09-21	USA	Washington		USA-WA	Human|USA	
+ON094481.1	Human	2022-01-22	USA	Pennsylvania		USA	Human|USA	
+OL885734.1	Human	2021-11-13	USA	Illinois		USA-IL	Human|USA	
+ON094440.1	Human	2022-01-18	USA	North Carolina		USA	Human|USA	
+OK506389.1	Human	2021-09-21	USA	Alaska	Interior	USA-AK	Human|USA	
+ON094360.1	Human	2022-01-22	USA	Massachusetts		USA	Human|USA	
+OK627579.1	Human	2021-10-08	USA	Nevada		USA-NV	Human|USA	
+OL963726.1	Human	2021-12-06	USA	North Carolina		USA	Human|USA	
+ON094088.1	Human	2022-01-21	USA	North Carolina		USA	Human|USA	
+ON094349.1	Human	2022-01-22	USA	North Carolina		USA	Human|USA	
+OL584804.1	Human	2021-09-09	USA	Washington	Yakima County	USA-WA	Human|USA	
+OL926592.1	Human	2021-11-22	USA	Colorado		USA-CO	Human|USA	
+OK399833.1	Human	2021-09-10	USA	Washington		USA-WA	Human|USA	
+OK611684.1	Human	2021-10-06	USA	Hawaii		USA-HI	Human|USA	
+OL740510.1	Human	2021-09-28	USA	Washington	Spokane County	USA-WA	Human|USA	
+OM116354.1	Human	2021-12-20	USA	Maryland		USA-MD	Human|USA	
+MZ989874.1	Human	2021-08-09	USA	North Carolina		USA-NC	Human|USA	
+ON665045.1	Human	2021-11-20	USA	Louisiana		USA	Human|USA	
+OK114389.1	Human	2021-08-21	USA	Alaska		USA-AK	Human|USA	
+OK068073.1	Human	2021-08-10	USA	Oregon		USA-OR	Human|USA	
+OL885555.1	Human	2021-11-13	USA	New York		USA-NY	Human|USA	
+OL776281.1	Human	2021-11-10	USA	Michigan		USA-MI	Human|USA	
+OL506729.1	Human	2021-10-30	USA	Michigan		USA-MI	Human|USA	
+OK540971.1	Human	2021-09-17	USA	Montana		USA-MT	Human|USA	
+OK111516.1	Human	2021-07-24	USA	Washington		USA-WA	Human|USA	
+MZ967574.1	Human	2021-07-31	USA	Washington		USA-WA	Human|USA	
+OM182602.1	Human	2021-09-15	USA	North Carolina		USA	Human|USA	
+OK520677.1	Human	2021-09-27	USA	Georgia		USA-GA	Human|USA	
+OK609365.1	Human	2021-10-04	USA	Idaho		USA-ID	Human|USA	
+OL997512.1	Human	2021-12-09	USA	Illinois		USA-IL	Human|USA	
+OK363259.1	Human	2021-09-01	USA	Arizona		USA-AZ	Human|USA	
+OK408755.1	Human	2021-08-26	USA	Montana		USA-MT	Human|USA	
+OM035619.1	Human	2021-12-14	USA	Indiana		USA-IN	Human|USA	
+OK651916.1	Human	2021-09-03	USA	Pennsylvania		USA	Human|USA	
+OL921839.1	Human	2021-11-10	USA	Nevada		USA-NV	Human|USA	
+OK144468.1	Human	2021-07-31	USA	Washington		USA-WA	Human|USA	
+ON094291.1	Human	2022-01-20	USA	North Carolina		USA	Human|USA	
+OM402036.1	Human	2022-01-11	USA	Pennsylvania		USA	Human|USA	
+OK113809.1	Human	2021-08-19	USA	California		USA-CA	Human|USA	
+OK058022.1	Human	2021-08-16	USA	Washington		USA-WA	Human|USA	
+ON094263.1	Human	2022-01-20	USA	New Jersey		USA	Human|USA	
+OK334363.1	Human	2021-09-06	USA	Washington		USA-WA	Human|USA	
+OL740505.1	Human	2021-09-28	USA	Washington	Spokane County	USA-WA	Human|USA	
+OK144517.1	Human	2021-07-31	USA	Washington		USA-WA	Human|USA	
+OM059487.1	Human	2021-11-29	USA	Massachusetts		USA	Human|USA	
+MZ861954.1	Human	2021-07-28	USA	North Carolina		USA-NC	Human|USA	
+OK366361.1	Human	2021-09-08	USA	Montana		USA-MT	Human|USA	
+OK517407.1	Human	2021-09-21	USA	Montana		USA-MT	Human|USA	
+OK612622.1	Human	2021-10-08	USA	Montana		USA-MT	Human|USA	
+OK506382.1	Human	2021-09-23	USA	Alaska	Interior	USA-AK	Human|USA	
+ON094333.1	Human	2022-01-23	USA	Pennsylvania		USA	Human|USA	
+OM648840.1	Human	2021-12-28	USA	Massachusetts		USA	Human|USA	
+ON094361.1	Human	2022-01-18	USA	Illinois		USA	Human|USA	
+MZ970887.1	Human	2021-07-26	USA	Washington		USA-WA	Human|USA	
+OK506615.1	Human	2021-09-20	USA	Alaska	Anchorage-Mat Su	USA-AK	Human|USA	
+MZ886394.1	Human	2021-08-04	USA	New Jersey		USA-NJ	Human|USA	
+OL748873.1	Human	2021-11-16	USA	Colorado		USA-CO	Human|USA	
+OL469909.1	Human	2021-10-25	USA	Alaska	Interior	USA-AK	Human|USA	
+OM200645.1	Human	2021-12-27	USA	Alabama		USA-AL	Human|USA	
+OL566064.1	Human	2021-10-14	USA	Arizona		USA-AZ	Human|USA	
+MZ993779.1	Human	2021-08-09	USA	Washington		USA-WA	Human|USA	
+OK117560.1	Human	2021-08-12	USA	UTAH		USA-UT	Human|USA	
+OL469876.1	Human	2021-10-12	USA	Alaska	Southeast	USA-AK	Human|USA	
+OK620492.1	Human	2021-09-17	USA	Colorado		USA-CO	Human|USA	
+OK309822.1	Human	2021-09-07	USA	Alaska	Anchorage-Mat Su	USA-AK	Human|USA	
+ON033895.1	Human	2021-12-27	USA			USA	Human|USA	
+OL964071.1	Human	2021-10-14	USA			USA	Human|USA	
+OL433245.1	Human	2021-10-11	USA	New York		USA-NY	Human|USA	
+OK301344.1	Human	2021-09-11	USA	Washington		USA-WA	Human|USA	
+ON094469.1	Human	2022-01-20	USA			USA	Human|USA	
+OK402823.1	Human	2021-09-10	USA	Montana		USA-MT	Human|USA	
+OM198981.1	Human	2021-12-23	USA	New Mexico		USA-NM	Human|USA	
+OL413939.1	Human	2021-10-19	USA	Idaho		USA-ID	Human|USA	
+OM258961.1	Human	2021-12-07	USA	RI		USA-RI	Human|USA	
+OK162029.1	Human	2021-08-19	USA	Utah		USA-UT	Human|USA	
+OL396497.1	Human	2021-10-24	USA	Montana		USA-MT	Human|USA	
+OK601442.1	Human	2021-09-19	USA	Montana		USA-MT	Human|USA	
+OL675391.1	Human	2021-11-01	USA	Alaska	Interior	USA-AK	Human|USA	
+ON094264.1	Human	2022-01-19	USA			USA	Human|USA	
+OM059168.1	Human	2021-11-28	USA			USA	Human|USA	
+OM258608.1	Human	2022-01-06	USA			USA	Human|USA	
+OL412488.1	Human	2021-10-07	USA	Alaska	Southeast	USA-AK	Human|USA	
+OK154582.1	Human	2021-08-24	USA	Montana		USA-MT	Human|USA	
+OL748477.1	Human	2021-11-15	USA	New Jersey		USA-NJ	Human|USA	
+OK459148.1	Human	2021-09-08	USA	Idaho		USA-ID	Human|USA	
+OL963725.1	Human	2021-12-04	USA			USA	Human|USA	
+ON094239.1	Human	2022-01-22	USA			USA	Human|USA	
+ON478901.1	Human	2021-10-14	USA	Idaho	Ada county	USA-ID	Human|USA	
+OL946303.1	Human	2021-11-02	USA	Florida		USA-FL	Human|USA	
+ON616978.1	Human	2022-01-21	USA			USA	Human|USA	
+OK619949.1	Human	2021-09-16	USA	Montana		USA-MT	Human|USA	
+OL748708.1	Human	2021-11-15	USA	Utah		USA-UT	Human|USA	
+OL412506.1	Human	2021-10-19	USA	Alaska	Interior	USA-AK	Human|USA	
+OK652466.1	Human	2021-09-07	USA	Alaska	Anchorage-Mat Su	USA-AK	Human|USA	
+ON060395.1	Human	2021-09-03	USA			USA	Human|USA	
+OL887415.1	Human	2021-11-18	USA	North Carolina		USA-NC	Human|USA	
+ON094511.1	Human	2022-01-20	USA			USA	Human|USA	
+OL775736.1	Human	2021-11-09	USA	California		USA-CA	Human|USA	
+OL968436.1	Human	2021-12-01	USA	Kansas		USA-KS	Human|USA	
+OK506710.1	Human	2021-09-16	USA	Alaska	Anchorage-Mat Su	USA-AK	Human|USA	
+USA/MT-MTPHL-3964823/2022	Human	2022-01-12	USA	Montana	Fergus County	USA-MT	Human|USA	
+deer/USA/IL-21-038000-002/2021	White-tailed deer	2021-11-21	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/OK-21-038767-001/2021	White-tailed deer	2021-11-20	USA	Oklahoma		USA-OK	White-tailed deer|USA	
+deer/USA/MN-MDH-22899/2021	White-tailed deer	2021-11-09	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/MN-22-000885-002/2021	White-tailed deer	2021-12-01	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/ME-22-000886-001/2021	White-tailed deer	2021-12-10	USA	Maine		USA-ME	White-tailed deer|USA	
+deer/USA/ME-22-000886-002/2021	White-tailed deer	2021-12-11	USA	Maine		USA-ME	White-tailed deer|USA	
+deer/USA/KS-21-038765-002/2021	White-tailed deer	2021-12-03	USA	Kansas		USA-KS	White-tailed deer|USA	
+deer/USA/MA-21-038766-001/2021	White-tailed deer	2021-12-01	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-21-038766-002/2021	White-tailed deer	2021-11-30	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/PA-21-038768-001/2021	White-tailed deer	2021-11-28	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/VA-22-000883-002/2021	White-tailed deer	2021-12-11	USA	Virginia		USA-VA	White-tailed deer|USA	
+deer/USA/NJ-22-000884-001/2021	White-tailed deer	2021-12-02	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-000884-002/2021	White-tailed deer	2021-12-08	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/MN-22-000885-001/2021	White-tailed deer	2021-12-07	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/TN-22-000882-002/2021	White-tailed deer	2021-12-04	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/VA-22-000883-001/2021	White-tailed deer	2021-12-11	USA	Virginia		USA-VA	White-tailed deer|USA	
+deer/USA/NC-21-038002-001/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-21-038002-002/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/AR-21-038764-001/2021	White-tailed deer	2021-12-01	USA	Arkansas		USA-AR	White-tailed deer|USA	
+deer/USA/NY-21-038001-002/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/IL-22-007926-005/2022	White-tailed deer	2022-02-02	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/MN-22-007926-009/2021	White-tailed deer	2021-12-21	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/IL-22-007926-010/2022	White-tailed deer	2022-02-03	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/IL-22-007926-031/2022	White-tailed deer	2022-01-03	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/KS-22-007926-025/2022	White-tailed deer	2022-01-09	USA	Kansas		USA-KS	White-tailed deer|USA	
+deer/USA/MN-22-007926-006/2022	White-tailed deer	2022-01-03	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/MN-22-007926-014/2021	White-tailed deer	2021-12-16	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/MN-22-007926-023/2021	White-tailed deer	2021-12-19	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/OK-21-038767-002/2021	White-tailed deer	2021-11-20	USA	Oklahoma		USA-OK	White-tailed deer|USA	
+deer/USA/TN-22-000882-001/2021	White-tailed deer	2021-12-04	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/IL-21-038000-001/2021	White-tailed deer	2021-11-20	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/MN-22-007926-028/2021	White-tailed deer	2021-12-16	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/NC-22-007926-027/2021	White-tailed deer	2021-12-16	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NJ-22-007926-001/2022	White-tailed deer	2022-01-18	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-007926-002/2022	White-tailed deer	2022-01-06	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-007926-016/2022	White-tailed deer	2022-01-04	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-007926-017/2022	White-tailed deer	2022-02-14	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NY-22-007926-026/2022	White-tailed deer	2022-01-05	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/TN-22-007926-011/2022	White-tailed deer	2022-01-11	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/TN-22-007926-012/2021	White-tailed deer	2021-12-13	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/TN-22-007926-013/2021	White-tailed deer	2021-12-09	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/TN-22-007926-020/2022	White-tailed deer	2022-01-03	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/TN-22-007926-029/2021	White-tailed deer	2021-12-20	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/PA-VSP3517/2021	White-tailed deer	2021-11-01	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/PA-VSP3514/2021	White-tailed deer	2021-10-14	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/PA-VSP3515/2021	White-tailed deer	2021-10-28	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/NY-WTD_165804/2021	White-tailed deer	2021-11-22	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-2103/2022	White-tailed deer	2022-01-18	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NE-LN_S514077/2021	White-tailed deer	2021-11-20	USA	Nebraska		USA-NE	White-tailed deer|USA	
+deer/USA/NE-LN_S513939/2021	White-tailed deer	2021-11-13	USA	Nebraska		USA-NE	White-tailed deer|USA	
+deer/USA/NE-LN_S513970/2021	White-tailed deer	2021-11-13	USA	Nebraska		USA-NE	White-tailed deer|USA	
+deer/USA/NE-LN_S513895/2021	White-tailed deer	2021-11-13	USA	Nebraska		USA-NE	White-tailed deer|USA	
+deer/USA/NE-LN_S513869/2021	White-tailed deer	2021-11-13	USA	Nebraska		USA-NE	White-tailed deer|USA	
+deer/USA/NY-2125/2022	White-tailed deer	2022-01-30	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164702/2021	White-tailed deer	2021-11-08	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164604/2021	White-tailed deer	2021-11-06	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_119611/2021	White-tailed deer	2021-11-03	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_119558/2021	White-tailed deer	2021-11-01	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164485/2021	White-tailed deer	2021-11-03	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164656/2021	White-tailed deer	2021-11-03	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164477/2021	White-tailed deer	2021-11-07	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164040/2021	White-tailed deer	2021-10-09	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164572/2021	White-tailed deer	2021-10-08	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164637/2021	White-tailed deer	2021-11-06	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164580/2021	White-tailed deer	2021-11-06	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164525/2021	White-tailed deer	2021-10-04	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164760/2021	White-tailed deer	2021-11-06	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164709/2021	White-tailed deer	2021-11-06	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_147551/2021	White-tailed deer	2021-10-29	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164343/2021	White-tailed deer	2021-10-23	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164175/2021	White-tailed deer	2021-10-19	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164395/2021	White-tailed deer	2021-10-24	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_119785/2021	White-tailed deer	2021-10-02	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_158035/2021	White-tailed deer	2021-11-17	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165715/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165711/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164784/2021	White-tailed deer	2021-11-12	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165707/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_149990/2021	White-tailed deer	2021-11-11	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165273/2021	White-tailed deer	2021-11-10	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164777/2021	White-tailed deer	2021-11-09	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_163183/2021	White-tailed deer	2021-11-14	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_149982/2021	White-tailed deer	2021-11-13	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_158072/2021	White-tailed deer	2021-01-01	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_149845/2021	White-tailed deer	2021-11-22	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_140996/2021	White-tailed deer	2021-11-28	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-2108/2022	White-tailed deer	2022-01-27	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-2089/2022	White-tailed deer	2022-01-16	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NC-22-006202-041/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NY-22-006202-002/2021	White-tailed deer	2021-11-30	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/IL-22-006202-028/2021	White-tailed deer	2021-11-21	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/NY-22-006202-040/2021	White-tailed deer	2021-11-30	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NC-22-006202-020/2021	White-tailed deer	2021-12-13	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-006202-063/2021	White-tailed deer	2021-12-13	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/MA-22-006202-009/2021	White-tailed deer	2021-12-03	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NC-22-006202-021/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NY-22-006202-094/2021	White-tailed deer	2021-11-23	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/MA-22-006202-072/2021	White-tailed deer	2021-11-29	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NJ-22-006202-076/2021	White-tailed deer	2021-12-07	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-006202-085/2021	White-tailed deer	2021-12-09	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-006202-062/2021	White-tailed deer	2021-12-09	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/MA-22-006202-022/2021	White-tailed deer	2021-11-29	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NJ-22-006202-066/2021	White-tailed deer	2021-12-09	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NY-22-006202-051/2021	White-tailed deer	2021-11-29	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/TN-22-007926-019/2021	White-tailed deer	2021-12-20	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/NJ-22-007926-008/2022	White-tailed deer	2022-01-13	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/TN-22-007926-024/2021	White-tailed deer	2021-12-12	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/TN-22-007926-007/2021	White-tailed deer	2021-12-12	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/NJ-22-007926-032/2022	White-tailed deer	2022-01-20	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-007926-030/2022	White-tailed deer	2022-01-31	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/TN-22-007926-022/2021	White-tailed deer	2021-12-09	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/KS-22-007926-004/2021	White-tailed deer	2021-12-13	USA	Kansas		USA-KS	White-tailed deer|USA	
+deer/USA/MN-MDH-22900/2021	White-tailed deer	2021-11-08	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/MN-22-013500-009/2022	White-tailed deer	2022-02-03	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/OK-22-013500-008/2022	White-tailed deer	2022-02-14	USA	Oklahoma		USA-OK	White-tailed deer|USA	
+deer/USA/WV-22-013500-011/2022	White-tailed deer	2022-03-15	USA	West Virginia		USA-WV	White-tailed deer|USA	
+deer/USA/OK-22-013500-015/2022	White-tailed deer	2022-02-14	USA	Oklahoma		USA-OK	White-tailed deer|USA	
+deer/USA/OK-22-013500-030/2022	White-tailed deer	2022-02-14	USA	Oklahoma		USA-OK	White-tailed deer|USA	
+deer/USA/WV-22-013500-014/2022	White-tailed deer	2022-03-11	USA	West Virginia		USA-WV	White-tailed deer|USA	
+deer/USA/WV-22-013500-017/2022	White-tailed deer	2022-03-15	USA	West Virginia		USA-WV	White-tailed deer|USA	
+deer/USA/NJ-22-010212-027/2022	White-tailed deer	2022-01-24	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/IL-22-010212-020/2022	White-tailed deer	2022-02-03	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/SD-22-013500-010/2022	White-tailed deer	2022-01-14	USA	South Dakota		USA-SD	White-tailed deer|USA	
+deer/USA/NJ-22-011177-015/2022	White-tailed deer	2022-02-07	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/KS-22-010212-002/2022	White-tailed deer	2022-01-09	USA	Kansas		USA-KS	White-tailed deer|USA	
+deer/USA/IL-22-010212-003/2022	White-tailed deer	2022-01-17	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/MO-22-013500-012/2022	White-tailed deer	2022-02-16	USA	Missouri		USA-MO	White-tailed deer|USA	
+deer/USA/TN-22-010212-012/2021	White-tailed deer	2021-12-12	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/MN-22-013500-018/2022	White-tailed deer	2022-02-15	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/TN-22-010212-026/2022	White-tailed deer	2022-01-11	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/IL-22-010212-018/2022	White-tailed deer	2022-01-31	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/MN-22-013500-032/2022	White-tailed deer	2022-02-18	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/MN-22-013500-019/2022	White-tailed deer	2022-02-16	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/NJ-22-011177-012/2022	White-tailed deer	2022-01-20	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/WV-22-013500-020/2022	White-tailed deer	2022-04-04	USA	West Virginia		USA-WV	White-tailed deer|USA	
+deer/USA/SD-22-013500-003/2022	White-tailed deer	2022-01-14	USA	South Dakota		USA-SD	White-tailed deer|USA	
+deer/USA/NJ-22-011177-025/2022	White-tailed deer	2022-02-14	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/WV-22-013500-001/2022	White-tailed deer	2022-03-11	USA	West Virginia		USA-WV	White-tailed deer|USA	
+deer/USA/TN-22-011177-019/2022	White-tailed deer	2022-01-11	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/OK-22-013500-005/2022	White-tailed deer	2022-02-21	USA	Oklahoma		USA-OK	White-tailed deer|USA	
+deer/USA/OK-22-013500-007/2022	White-tailed deer	2022-02-14	USA	Oklahoma		USA-OK	White-tailed deer|USA	
+deer/USA/MO-22-013500-004/2021	White-tailed deer	2021-12-10	USA	Missouri		USA-MO	White-tailed deer|USA	
+deer/USA/NC-22-006202-033/2021	White-tailed deer	2021-12-07	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-003833-016/2021	White-tailed deer	2021-11-19	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/MN-22-006202-023/2021	White-tailed deer	2021-12-07	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/NC-22-002350-031/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-003833-008/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/MA-22-002350-032/2021	White-tailed deer	2021-11-29	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/KY-22-013500-006/2022	White-tailed deer	2022-03-10	USA	Kentucky		USA-KY	White-tailed deer|USA	
+deer/USA/TN-22-010212-017/2021	White-tailed deer	2021-12-12	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/NJ-22-011177-028/2022	White-tailed deer	2022-01-18	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/MN-22-011177-020/2021	White-tailed deer	2021-12-21	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/TN-22-010212-008/2021	White-tailed deer	2021-12-09	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/NY-WTD_149844/2021	White-tailed deer	2021-11-28	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_149792/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165672/2021	White-tailed deer	2021-11-21	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165726/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164510/2021	White-tailed deer	2021-11-06	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164507/2021	White-tailed deer	2021-11-06	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164447/2021	White-tailed deer	2021-11-02	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164573/2021	White-tailed deer	2021-11-02	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/PA-VSP3575/2021	White-tailed deer	2021-11-28	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/KS-21-038765-001/2021	White-tailed deer	2021-12-06	USA	Kansas		USA-KS	White-tailed deer|USA	
+deer/USA/AR-21-038764-002/2021	White-tailed deer	2021-12-01	USA	Arkansas		USA-AR	White-tailed deer|USA	
+deer/USA/PA-VSP3573/2021	White-tailed deer	2021-11-27	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/MA-22-000890-021/2021	White-tailed deer	2021-12-01	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-002350-027/2021	White-tailed deer	2021-11-29	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NJ-22-002350-024/2021	White-tailed deer	2021-12-08	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-002350-026/2021	White-tailed deer	2021-12-23	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NY-22-001705-012/2021	White-tailed deer	2021-11-29	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NC-22-001705-007/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/PA-22-001705-010/2021	White-tailed deer	2021-12-06	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/NC-22-001705-001/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/PA-22-000890-010/2021	White-tailed deer	2021-12-01	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/MA-22-003833-001/2021	White-tailed deer	2021-11-30	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/PA-22-002350-013/2021	White-tailed deer	2021-12-06	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/MA-22-001705-002/2021	White-tailed deer	2021-11-30	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NJ-22-001705-009/2021	White-tailed deer	2021-12-07	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/KY-22-002392-001/2021	White-tailed deer	2021-12-24	USA	Kentucky		USA-KY	White-tailed deer|USA	
+deer/USA/KY-22-002392-002/2021	White-tailed deer	2021-12-24	USA	Kentucky		USA-KY	White-tailed deer|USA	
+deer/USA/NY-WTD_165751/2021	White-tailed deer	2021-01-01	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164628/2021	White-tailed deer	2021-01-01	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164531/2021	White-tailed deer	2021-10-01	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164550/2021	White-tailed deer	2021-10-01	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164135/2021	White-tailed deer	2021-10-09	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164706/2021	White-tailed deer	2021-11-05	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164530/2021	White-tailed deer	2021-11-05	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164523/2021	White-tailed deer	2021-11-05	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_119945/2021	White-tailed deer	2021-11-06	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_119471/2021	White-tailed deer	2021-11-06	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165887/2021	White-tailed deer	2021-11-01	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_155994/2021	White-tailed deer	2021-10-30	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_119591/2021	White-tailed deer	2021-10-28	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165954/2021	White-tailed deer	2021-10-24	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165697/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165834/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165776/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165724/2021	White-tailed deer	2021-11-27	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_149738/2021	White-tailed deer	2021-11-27	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165741/2021	White-tailed deer	2021-11-26	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165189/2021	White-tailed deer	2021-11-05	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164509/2021	White-tailed deer	2021-11-07	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_161864/2021	White-tailed deer	2021-11-01	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164571/2021	White-tailed deer	2021-11-04	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_165925/2021	White-tailed deer	2021-11-27	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_155912/2021	White-tailed deer	2021-11-26	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_164733/2021	White-tailed deer	2021-11-12	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NY-WTD_119770/2021	White-tailed deer	2021-11-19	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/MA-22-006202-071/2021	White-tailed deer	2021-12-02	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NY-22-006202-030/2021	White-tailed deer	2021-11-29	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NC-22-006202-077/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NY-22-006202-049/2021	White-tailed deer	2021-11-20	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/PA-22-006202-056/2021	White-tailed deer	2021-12-09	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/AR-22-006202-074/2021	White-tailed deer	2021-12-01	USA	Arkansas		USA-AR	White-tailed deer|USA	
+deer/USA/NC-22-006202-065/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/MN-22-006202-069/2021	White-tailed deer	2021-12-07	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/NC-22-006202-070/2021	White-tailed deer	2021-11-19	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NY-22-006202-089/2021	White-tailed deer	2021-11-21	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/NJ-22-006202-092/2021	White-tailed deer	2021-12-08	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NY-22-006202-095/2021	White-tailed deer	2021-11-23	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/MA-22-006202-006/2021	White-tailed deer	2021-11-30	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/IL-22-006202-007/2021	White-tailed deer	2021-12-03	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/NJ-22-006202-008/2021	White-tailed deer	2021-12-08	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NC-22-006202-018/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/PA-22-006202-024/2021	White-tailed deer	2021-11-29	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/NJ-22-006202-019/2021	White-tailed deer	2021-12-23	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/MA-22-006202-031/2021	White-tailed deer	2021-11-29	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-006202-039/2021	White-tailed deer	2021-12-04	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/PA-22-006202-025/2021	White-tailed deer	2021-12-10	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/NC-22-006202-027/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-002350-001/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-002350-004/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/MA-22-002350-014/2021	White-tailed deer	2021-12-03	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-001705-030/2021	White-tailed deer	2021-11-29	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NC-22-001705-018/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/MA-22-001705-020/2021	White-tailed deer	2021-12-03	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/PA-22-001705-013/2021	White-tailed deer	2021-11-30	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/MA-22-003833-022/2021	White-tailed deer	2021-11-30	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/PA-22-000890-032/2021	White-tailed deer	2021-12-07	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/NJ-22-000890-015/2021	White-tailed deer	2021-12-08	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NC-22-000890-026/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/MA-22-001705-005/2021	White-tailed deer	2021-11-29	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-001705-003/2021	White-tailed deer	2021-12-03	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-001705-006/2021	White-tailed deer	2021-12-01	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NC-22-002350-022/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-002350-019/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-002350-021/2021	White-tailed deer	2021-12-07	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-002350-018/2021	White-tailed deer	2021-12-07	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/MA-22-002350-023/2021	White-tailed deer	2021-12-04	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MN-22-002350-028/2021	White-tailed deer	2021-12-01	USA	Minnesota		USA-MN	White-tailed deer|USA	
+deer/USA/NJ-22-002350-020/2021	White-tailed deer	2021-12-07	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/MA-22-002350-029/2021	White-tailed deer	2021-12-03	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-002350-017/2021	White-tailed deer	2021-12-04	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-002350-010/2021	White-tailed deer	2021-11-29	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/LA-22-002350-005/2021	White-tailed deer	2021-12-17	USA	Louisiana		USA-LA	White-tailed deer|USA	
+deer/USA/MA-22-002350-006/2021	White-tailed deer	2021-12-02	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-002350-009/2021	White-tailed deer	2021-12-03	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/PA-22-003833-019/2021	White-tailed deer	2021-12-03	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/PA-22-003833-006/2021	White-tailed deer	2021-12-04	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/PA-22-003833-009/2021	White-tailed deer	2021-12-07	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/NC-22-003833-004/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-003833-013/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-003833-029/2021	White-tailed deer	2021-11-20	USA	New York		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-003833-024/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-003833-025/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-003833-014/2021	White-tailed deer	2021-12-13	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NC-22-003833-021/2021	White-tailed deer	2021-11-20	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/MA-22-003833-012/2021	White-tailed deer	2021-12-03	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-003833-015/2021	White-tailed deer	2021-12-01	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NY-22-003833-003/2021	White-tailed deer	2021-11-21	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/PA-22-000890-019/2021	White-tailed deer	2021-11-29	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/MA-22-003833-028/2021	White-tailed deer	2021-12-04	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/NJ-22-003833-020/2021	White-tailed deer	2021-12-11	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NC-22-000890-011/2021	White-tailed deer	2021-11-21	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/PA-22-000890-002/2021	White-tailed deer	2021-12-10	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/NC-22-000890-005/2021	White-tailed deer	2021-11-19	USA	North Carolina		USA-NC	White-tailed deer|USA	
+deer/USA/NJ-22-000890-016/2021	White-tailed deer	2021-12-07	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-000890-012/2021	White-tailed deer	2021-12-07	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NJ-22-000890-006/2021	White-tailed deer	2021-12-11	USA	New Jersey		USA-NJ	White-tailed deer|USA	
+deer/USA/NY-22-000890-009/2021	White-tailed deer	2021-11-21	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/MA-22-000890-024/2021	White-tailed deer	2021-12-01	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/MA-22-000890-028/2021	White-tailed deer	2021-12-03	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/AR-22-000890-004/2021	White-tailed deer	2021-12-01	USA	Arkansas		USA-AR	White-tailed deer|USA	
+deer/USA/NY-22-001705-016/2021	White-tailed deer	2021-11-30	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/IL-22-001705-019/2021	White-tailed deer	2021-11-21	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/NY-22-001705-011/2021	White-tailed deer	2021-11-22	USA	New York		USA-NY	White-tailed deer|USA	
+deer/USA/TN-22-001705-022/2021	White-tailed deer	2021-12-04	USA	Tennessee		USA-TN	White-tailed deer|USA	
+deer/USA/PA-22-001705-032/2021	White-tailed deer	2021-11-29	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/MA-22-001705-031/2021	White-tailed deer	2021-12-02	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+deer/USA/IL-22-001705-029/2021	White-tailed deer	2021-12-03	USA	Illinois		USA-IL	White-tailed deer|USA	
+deer/USA/PA-22-003833-002/2021	White-tailed deer	2021-12-07	USA	Pennsylvania		USA-PA	White-tailed deer|USA	
+deer/USA/MA-22-003833-032/2021	White-tailed deer	2021-12-04	USA	Massachusetts		USA-MA	White-tailed deer|USA	
+MZ778090.1	Human	2021-08-06	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_5IW5UTDXUN7AOCQU/2021
+MZ778136.1	Human	2021-08-06	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_SO2IHR6YNWKCJN4Y/2021
+MZ801696.1	Human	2021-08-07	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_AUR4GTIC2ZMQ3ZLV/2021
+MZ831124.1	Human	2021-08-10	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_4IHFAXEAE5F6TANS/2021
+MZ831131.1	Human	2021-08-09	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_5H6RL6A32MFYNCN2/2021
+MZ831138.1	Human	2021-08-09	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_7VCLRORHOIPFO66B/2021
+MZ831153.1	Human	2021-08-09	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_EUTCVQKUL5VOZBCL/2021
+MZ831164.1	Human	2021-08-10	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_IVJSX6MOP5EQIZFH/2021
+MZ831171.1	Human	2021-08-09	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_LZKAT6PIIUOE7ORV/2021
+MZ839391.1	Human	2021-08-13	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_24YRWZD4TXLNFGGR/2021
+MZ839428.1	Human	2021-08-13	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_KWP3WLUGM2KQGZQJ/2021
+MZ839443.1	Human	2021-08-13	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_SHIKTLGSKTR4CFY6/2021
+MZ839450.1	Human	2021-08-13	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_UQS4ILC3ZJ7RH5AW/2021
+MZ839452.1	Human	2021-08-12	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_V6FHLZEXJSDAYK7S/2021
+MZ934190.1	Human	2021-08-16	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_2CDYU2RU63EZEM2L/2021
+MZ934210.1	Human	2021-08-16	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_7TPUX2HH3L3HKIYE/2021
+MZ934236.1	Human	2021-08-16	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_FXJRSVFWTISHNWTH/2021
+MZ934251.1	Human	2021-08-17	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_L6YXTFMLHZXFFVW6/2021
+MZ934268.1	Human	2021-08-17	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_QEOEBO52UPAMUSK5/2021
+MZ934287.1	Human	2021-08-17	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_TCM6ZOEHQAUBEYF4/2021
+MZ934302.1	Human	2021-08-17	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_XENENIGVTORWRRGG/2021
+MZ948705.1	Human	2021-08-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_5YSPETKM2IEROLWS/2021
+MZ948729.1	Human	2021-08-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_G3OJXTLK6M6GWAXD/2021
+MZ948751.1	Human	2021-08-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_MJ2A5NKFV3DVUIGB/2021
+MZ948766.1	Human	2021-08-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_QKDYF6VGGVVBPDJ5/2021
+MZ948772.1	Human	2021-08-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_S6L25LHWG7KORO6A/2021
+MZ948796.1	Human	2021-08-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_ZLZUMVOBNHVGZPIE/2021
+MZ983317.1	Human	2021-08-23	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_5MRVFUTUG275KNB4/2021
+MZ983349.1	Human	2021-08-23	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_R7H36VPY52WGI3XJ/2021
+MZ983352.1	Human	2021-08-23	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_TWAYUASGSTQPYMRW/2021
+OK020938.1	Human	2021-08-25	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_NA5EGK2I3VOKITNN/2021
+OK021503.1	Human	2021-08-23	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_LGIHBTDXOEE2ZZQR/2021
+OK021524.1	Human	2021-08-24	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_VRYTN5ED74HRT4VY/2021
+OK034569.1	Human	2021-08-26	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_DOPIPOLUKVITUHYC/2021
+OK035053.1	Human	2021-08-26	USA	Nebraska		USA-NH	Human|USA	USA/NH-CDCBI-CRSP_NBWZNVZSPJWNDJJO/2021
+OK035071.1	Human	2021-08-27	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_6OW3YJHFDEAYPOSQ/2021
+OK035123.1	Human	2021-08-26	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_KU2NE2HF7JGMBVUD/2021
+OK035160.1	Human	2021-08-26	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_TRAQ5FJLQWYVAHCC/2021
+OK035176.1	Human	2021-08-26	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_Z3QKFANE5WS2WMHN/2021
+OK036272.1	Human	2021-08-29	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_RBTSAXWC7HWZMQUT/2021
+OK088240.1	Human	2021-08-31	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_AKY7O55DQGOE4XFV/2021
+OK088791.1	Human	2021-09-01	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_6IHREKLHC7RQMXAX/2021
+OK089306.1	Human	2021-09-04	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_547EWDUNMCDYOVCV/2021
+OK089307.1	Human	2021-09-04	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_5F6BUIKMCLB56KY7/2021
+OK089353.1	Human	2021-09-04	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_TZWKP5Y4VVT23WW5/2021
+OK089361.1	Human	2021-09-04	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_X6H5QFLZDKJ2RO7J/2021
+OK089805.1	Human	2021-09-03	USA	Massachusetts		USA-ME	Human|USA	USA/ME-CDCBI-CRSP_LDR2UZZ2YBVINSGY/2021
+OK119356.1	Human	2021-08-17	USA	Florida		USA-FL	Human|USA	USA/FL-CDC-ASC210119084/2021
+OK119994.1	Human	2021-08-12	USA	Vermont		USA-VT	Human|USA	USA/VT-CDC-ASC210192205/2021
+OK176181.1	Human	2021-09-06	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_Y6VJHUAHGJK2FMJ6/2021
+OK177731.1	Human	2021-09-07	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_BSAFIJQKB6RJIOEO/2021
+OK177765.1	Human	2021-09-07	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_LDFJDMKD2KLWMCTZ/2021
+OK177772.1	Human	2021-09-07	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_MCSU6SFRFNGOZKJI/2021
+OK177797.1	Human	2021-09-07	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_TMJTZJAIZKX62AEO/2021
+OK179639.1	Human	2021-09-10	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_E2XT7FAVXBWJDT55/2021
+OK276436.1	Human	2021-08-27	USA	Vermont		USA-VT	Human|USA	USA/VT-CDC-LC0256309/2021
+OK286946.1	Human	2021-09-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_7NJWPJMPWMLCLOBL/2021
+OK287000.1	Human	2021-09-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_RDSMN4EQQW5ZPA2K/2021
+OK352897.1	Human	2021-09-20	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_HCV46IFXYC5HY3KH/2021
+OK352904.1	Human	2021-09-22	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_KKJW7PACUD6EYFXZ/2021
+OK352911.1	Human	2021-09-20	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_OKGID237HB4YWQEJ/2021
+OK353553.1	Human	2021-09-21	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_NVE6DG4X4QUUIR2Z/2021
+OK403350.1	Human	2021-08-16	USA	Vermont		USA-VT	Human|USA	USA/VT-CDC-ASC210278010/2021
+OK428432.1	Human	2021-09-23	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_AXE2UYWFIKHF7FEJ/2021
+OK428453.1	Human	2021-09-24	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_HPUPLSFQ5AL4MHR6/2021
+OK443367.1	Human	2021-09-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDC-QDX28938923/2021
+OK443635.1	Human	2021-09-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDC-QDX28938927/2021
+OK463722.1	Human	2021-09-22	USA	Vermont		USA-VT	Human|USA	USA/VT-CDC-QDX29125634/2021
+OK575658.1	Human	2021-10-08	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_KVUBSXHEL7BLDOJG/2021
+OK591210.1	Human	2021-10-12	USA	Massachusetts		USA-MA	Human|USA	USA/MA-CDCBI-CRSP_LJPUMDWLHKAL75PX/2021
+OK712766.1	Human	2021-10-14	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_MWYQNUS353RVZQYW/2021
+OK712788.1	Human	2021-10-14	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_RF55UV4CZYWOPQVG/2021
+OK712805.1	Human	2021-10-14	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_W2BIDO6TWSDEFNFD/2021
+OL304737.1	Human	2021-10-19	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_AETEIXI3KHWHQ6GR/2021
+OL360169.1	Human	2021-10-18	USA	Vermont		USA-VT	Human|USA	USA/VT-CDC-QDX30240409/2021
+OL362900.1	Human	2021-10-27	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_XGBVQZOERBOD7FDH/2021
+OL406756.1	Human	2021-10-31	USA	Massachusetts		USA-MA	Human|USA	USA/MA-CDCBI-CRSP_QNBPQWZTDUW3D55B/2021
+OL545631.1	Human	2021-11-07	USA	Massachusetts		USA-MA	Human|USA	USA/MA-CDCBI-CRSP_HHOP7IWO2REJHMAJ/2021
+OL545701.1	Human	2021-11-08	USA	Massachusetts		USA-MA	Human|USA	USA/MA-CDCBI-CRSP_MWP2FW6VVGDMJQ75/2021
+OL545998.1	Human	2021-11-08	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_66GFWJPUBLMKG6RC/2021
+OL546091.1	Human	2021-11-08	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_UCU6OE54XDU6EM5E/2021
+OL564517.1	Human	2021-10-29	USA	Massachusetts		USA-ME	Human|USA	USA/ME-CDC-ASC210447903/2021
+OL599608.1	Human	2021-11-10	USA	Massachusetts		USA-MA	Human|USA	USA/MA-CDCBI-CRSP_6I2Y3E7BT2JK4N24/2021
+OL661996.1	Human	2021-11-16	USA	Massachusetts		USA-MA	Human|USA	USA/MA-CDCBI-CRSP_URZHF7MYVPOJIBR5/2021
+OL662092.1	Human	2021-11-15	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_6D573IYXNSEZFMSF/2021
+OL662700.1	Human	2021-11-15	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_ITZDU7EEMDEHZE64/2021
+OL662701.1	Human	2021-11-15	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_IYX5JRHV3P3V2YDK/2021
+OL662716.1	Human	2021-11-15	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_LVASKRPVJJ6R4CJ7/2021
+OL718610.1	Human	2021-11-20	USA	Vermont		USA-VT	Human|USA	USA/VT-CDCBI-CRSP_6KKBDPHAUWLICYW3/2021
+OL846289.1	Human	2021-12-01	USA	Massachusetts		USA-MA	Human|USA	USA/MA-CDCBI-CRSP_MQVYXL5AXPMPIHZW/2021
+OP930368.1	Human	2021-08-23	USA	South Dakota		USA-TB	Human|USA	USA/TB-90020432/2021
+Canada/QC-L00415260001B/2021	Human	2021-11-29	Canada	Quebec		CAN-QC	Human|Canada	EPI_ISL_11179130
+USA/CT-Yale-12907/2021	Human	2021-10-31	USA	Connecticut		USA-CT	Human|USA	EPI_ISL_6483337
